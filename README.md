@@ -14,7 +14,7 @@
 ## 📐 Data & Analytics Pipeline Architecture
 Below is the structural architecture of the data engineering, natural language processing, and statistical validation pipeline implemented for this research:
 
-![Thesis Data Pipeline](./pipeline_architecture.png)
+![Thesis Data Pipeline](./Visual_Pipeline.png)
 
 ---
 
